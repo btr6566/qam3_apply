@@ -1,16 +1,13 @@
-# QA Apprenticeship - Module 3 Apply
-
-## Learning Criteria:
-### Knowledge
+#Knowledge
 
 - K12 - Software testing frameworks and methodologies
 
 
-### Skills
+#Skills
 - S13 - Follow testing frameworks and methodologies
 - S5 - Conduct a range of test types, such as Integration, System, User Acceptance, Non-Functional, Performance and Security testing
 
-### Behaviors
+#Behaviors
 
 - B10 - Committed to continued professional development
 - B4 - Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion and diversity
